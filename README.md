@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Lucas Sánchez
 
-<!--
-**lucasanchezles-sudo/lucasanchezles-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador junior**
 
-Here are some ideas to get you started:
+Desarrollo proyectos web y aplicaciones de escritorio. Me interesan el frontend, Python y aprender colaborando en proyectos reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+
+- [Portal Municipal de San Roque](https://github.com/lucasanchezles-sudo/Dev_Software_SanRoque): frontend para un portal municipal.
+- [Sistema de kiosco con Tkinter](https://github.com/yasiBera/sistema-kiosco-tkinter): colaboración en revisión y documentación.
+
+## Tecnologías
+
+HTML · CSS · Python · Tkinter · SQLite
